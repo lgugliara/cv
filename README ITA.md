@@ -71,9 +71,9 @@ In ambito intelligenza artificiale, ho partecipato a numerose challenge di progr
 
 Tra i videogiochi più significativi che ho sviluppato, vi sono:
 
-Un gioco che simula a runtime l’intero universo visibile, calcolato interamente tramite la GPU. Questo progetto includeva effetti relativistici e una scala di dettaglio che andava dalla rappresentazione macroscopica di galassie intere fino alla visualizzazione microscopica della superficie di corpi celesti, il tutto senza alcun caricamento.
+- Un gioco che simula a runtime l’intero universo visibile, calcolato interamente tramite la GPU. Questo progetto includeva effetti relativistici e una scala di dettaglio che andava dalla rappresentazione macroscopica di galassie intere fino alla visualizzazione microscopica della superficie di corpi celesti, il tutto senza alcun caricamento.
 
-Un simulatore che riproduce in modo realistico il funzionamento interno del ciclo di combustione endotermico di un motore. Ho realizzato una modellazione quantizzata dei processi fisici, ottenendo un comportamento estremamente responsivo e coerente con la dinamica reale di un motore a combustione interna.
+- Un simulatore che riproduce in modo realistico il funzionamento interno del ciclo di combustione endotermico di un motore. Ho realizzato una modellazione quantizzata dei processi fisici, ottenendo un comportamento estremamente responsivo e coerente con la dinamica reale di un motore a combustione interna.
 
 ## Esperienze fondative
 
@@ -81,7 +81,8 @@ Nel 2014/15 ho contribuito a fondare il TechLab di Chieri, ispirato al modello d
 
 Durante questa esperienza, ho scoperto il linguaggio Java e sviluppato soluzioni innovative basate su Arduino, come:
 
-Sistemi di automazione per porte (apriporte automatici).
-Chiavette con crediti ricaricabili, utilizzate per gestire accessi o consumi interni.
-Flussi automatizzati tra macchinari interconnessi, implementando logiche di comunicazione e coordinamento tra dispositivi hardware.
+- Sistemi di automazione per porte (apriporte automatici).
+- Chiavette con crediti ricaricabili, utilizzate per gestire accessi o consumi interni.
+- Flussi automatizzati tra macchinari interconnessi, implementando logiche di comunicazione e coordinamento tra dispositivi hardware.
+
 Questa esperienza mi ha permesso di acquisire competenze pratiche nella programmazione e nell’integrazione hardware, oltre a una visione collaborativa dello sviluppo tecnologico.
