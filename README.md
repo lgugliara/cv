@@ -40,7 +40,6 @@ This experience allowed me to refine my project management skills and design adv
 ## Main clients
 
 - Leonardo
-- Leonardo
 - Stellantis
 - Schwarz Gruppe
 - Powercloud GmbH
